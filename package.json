@@ -1,0 +1,48 @@
+{
+  "name": "agripredict",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "cross-env PORT=3000 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "powerbi-client": "^2.23.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.30.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "react-scripts": "^5.0.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "data": {
+    "Area": "Albania",
+    "Item": "Maize",
+    "Year": 1990,
+    "average_rain_fall_mm_per_year": 1485,
+    "pesticides_tonnes": 121,
+    "avg_temp": 16.37
+  }
+}

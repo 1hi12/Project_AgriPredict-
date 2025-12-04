@@ -1,0 +1,121 @@
+/* CSS Custom Properties (same as original template) */
+:root {
+    --primary-color: #4CAF50;
+    --primary-dark: #388E3C;
+    --primary-light: #C8E6C9;
+    --accent-color: #8BC34A;
+    --text-color: #212121;
+    --secondary-text: #757575;
+    --divider-color: #BDBDBD;
+    --background-color: #F9F9F9;
+    --white: #FFFFFF;
+    --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Global Reset */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Text Size Adjust for Mobile Compatibility */
+  html {
+    text-size-adjust: 100%; /* Replaces -webkit-text-size-adjust */
+    -webkit-text-size-adjust: 100%; /* Fallback for older browsers */
+  }
+  
+  /* Body */
+  body {
+    @apply bg-gray-100; /* Matches --background-color */
+  }
+  
+  /* ... Rest of the styles.css remains unchanged ... */
+  
+  /* Navbar */
+  .navbar {
+    @apply bg-green-600 text-white p-4 flex justify-between items-center fixed top-0 w-full z-10 shadow-md;
+  }
+  
+  /* ... Continue with the rest of the original styles ... *//* CSS Custom Properties (same as original template) */
+:root {
+    --primary-color: #4CAF50;
+    --primary-dark: #388E3C;
+    --primary-light: #C8E6C9;
+    --accent-color: #8BC34A;
+    --text-color: #212121;
+    --secondary-text: #757575;
+    --divider-color: #BDBDBD;
+    --background-color: #F9F9F9;
+    --white: #FFFFFF;
+    --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Global Reset */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Text Size Adjust for Mobile Compatibility */
+  html {
+    text-size-adjust: 100%; /* Replaces -webkit-text-size-adjust */
+    -webkit-text-size-adjust: 100%; /* Fallback for older browsers */
+  }
+  
+  /* Body */
+  body {
+    @apply bg-gray-100; /* Matches --background-color */
+  }
+  
+  /* ... Rest of the styles.css remains unchanged ... */
+  
+  /* Navbar */
+  .navbar {
+    @apply bg-green-600 text-white p-4 flex justify-between items-center fixed top-0 w-full z-10 shadow-md;
+  }
+  
+  /* ... Continue with the rest of the original styles ... *//* CSS Custom Properties (same as original template) */
+:root {
+    --primary-color: #4CAF50;
+    --primary-dark: #388E3C;
+    --primary-light: #C8E6C9;
+    --accent-color: #8BC34A;
+    --text-color: #212121;
+    --secondary-text: #757575;
+    --divider-color: #BDBDBD;
+    --background-color: #F9F9F9;
+    --white: #FFFFFF;
+    --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Global Reset */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Text Size Adjust for Mobile Compatibility */
+  html {
+    text-size-adjust: 100%; /* Replaces -webkit-text-size-adjust */
+    -webkit-text-size-adjust: 100%; /* Fallback for older browsers */
+  }
+  
+  /* Body */
+  body {
+    @apply bg-gray-100; /* Matches --background-color */
+  }
+  
+  /* ... Rest of the styles.css remains unchanged ... */
+  
+  /* Navbar */
+  .navbar {
+    @apply bg-green-600 text-white p-4 flex justify-between items-center fixed top-0 w-full z-10 shadow-md;
+  }
+  
+  /* ... Continue with the rest of the original styles ... */
