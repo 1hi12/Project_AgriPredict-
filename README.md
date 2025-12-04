@@ -1,12 +1,12 @@
-🌾 AgriPredict - Agricultural Yield Prediction System
 📊 Overview
-AgriPredict is an advanced machine learning application designed to predict agricultural crop yields using historical data and environmental factors. This data science project leverages multiple machine learning algorithms and deep learning techniques to provide accurate predictions for farmers and agricultural stakeholders.
-🎯 Project Objectives
+AgriPredict is an advanced machine learning application that predicts agricultural crop yields using historical data and environmental factors. This comprehensive data science project combines multiple ML algorithms, deep learning with TensorFlow, and an AI-powered chatbot to provide accurate predictions and intelligent agricultural assistance.
+✨ Key Features
 
-Predict crop yields based on historical agricultural data
-Analyze environmental factors affecting crop production
-Provide actionable insights for agricultural decision-making
-Compare multiple machine learning models for optimal performance
+🎯 Multi-Model ML Pipeline: Random Forest, TensorFlow Neural Networks, Gradient Boosting
+🤖 AI Chatbot Assistant: Powered by Groq API for real-time agricultural queries
+📈 Real-time Predictions: Fast and accurate crop yield forecasting
+📊 Data Analytics: Comprehensive insights using Pandas and visualization tools
+🌍 Environmental Analysis: Climate and soil factor integration
 
 🛠️ Technologies & Libraries
 Data Science & Machine Learning
@@ -30,3 +30,4 @@ Backend & API
 
 Flask/FastAPI - REST API development
 Groq API - AI-powered chatbot integration
+
